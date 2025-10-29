@@ -10,7 +10,7 @@ I'm a passionate web developer focused on building dynamic, user-centric web app
 
 -  Pursuing **BCA** at Arka Jain University
 -  **Freelance Full Stack Developer** with focus on Backend Development
--  Solved **400+ DSA problems** on LeetCode
+-  Solved **800+ DSA problems** on LeetCode
 -  Teaching **DSA with C++** on [Learn Coding YouTube Channel](https://www.youtube.com/@LearnCodingOfficial)
 -  Completed **3-month internship** at Vizztal Digital Solutions as Backend Developer
 -  **Web Lead** of GDG AJU (Google Developer Group – Arka Jain University)
